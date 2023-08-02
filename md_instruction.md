@@ -126,3 +126,15 @@ std::cout<<"hello world"<<std::endl;
 
 <address@example.com>
 
+# HTML
+
+<kbd>CTRL</kbd> + <kbd>P<kbd>
+
+# HTML-codes
+
+A&macr;
+
+# Comments
+
+[//]: # (This is comment. Not seen)
+
