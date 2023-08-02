@@ -52,3 +52,27 @@ This is second line, but they place in one paragraph. For line break use space t
 
 # Code blocks
 
+## Code line
+
+`code line`
+
+## Code block
+
+```
+begin  
+line 1  
+line 2  
+    line 3  
+line 4  
+```
+
+## Code highlighting
+```python
+index = 0
+print("hello world!")
+```
+
+```c++
+ind i = 0;
+std::cout<<"hello world"<<std::endl;
+```
