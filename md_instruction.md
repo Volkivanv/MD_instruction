@@ -81,3 +81,31 @@ std::cout<<"hello world"<<std::endl;
 > First level quoting
 >> Second level quoting
 >>> Third level quoting
+
+# Horizontal line
+
+---
+
+# Tables
+
+ | Header1 | Header 2 |
+ | ------- | -------- |
+ | Cell 1  | Cell 2  |
+ | Cell 3  | Cell 4  |
+
+## Tables like HIML
+
+<table>
+    <tr>
+        <th>Header 1</th>
+        <th>Header 2</th>
+    </tr>
+    <tr>
+        <td>Cell 1.1</td>
+        <td>Cell 2.1</td>
+    </tr>
+    <tr>
+        <td>Cell 1.2</td>
+        <td>Cell 2.2</td>
+    </tr>
+</table>
