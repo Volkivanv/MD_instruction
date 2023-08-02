@@ -116,3 +116,13 @@ std::cout<<"hello world"<<std::endl;
  - [ ] Task 2
  - [ ] Task 3
 
+# Link to header
+
+[Quoting](#quoting)
+
+# Automatic links
+
+<http://example.com/>
+
+<address@example.com>
+
