@@ -138,3 +138,8 @@ A&macr;
 
 [//]: # (This is comment. Not seen)
 
+# Emoji
+
+:smile:  
+:laughing:  
+:blush:
